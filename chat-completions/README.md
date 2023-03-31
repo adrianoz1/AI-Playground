@@ -14,4 +14,19 @@ After installing the dependencies, open the index.js file and change the questio
 Finally, to run the file, type the following command in the terminal:
 
 ```node index.js```
+
 This will start the test, and you will be able to see the result of the question you asked.
+
+//result example
+```json
+[
+  {
+    message: {
+      role: 'assistant',
+      content: 'Olá! Você pode começar aprendendo o básico da gramática, como vocabulário, pronomes, verbos e estrutura de frases simples. Também é importante praticar a habilidade de ouvir e falar. Você pode começar assistindo a filmes e séries em inglês, ouvindo músicas e podcasts e praticando diálogos com outras pessoas. Há muitos recursos disponíveis na internet que podem ajudá-lo a aprender inglês de forma divertida e interativa.'
+    },
+    finish_reason: 'stop',
+    index: 0
+  }
+]
+```
