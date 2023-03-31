@@ -17,8 +17,9 @@ Finally, to run the file, type the following command in the terminal:
 
 This will start the test, and you will be able to see the result of the question you asked.
 
+
+```js
 //result example
-```json
 [
   {
     message: {
