@@ -5,6 +5,7 @@ To run this test, you need to install the dependency packages using npm i or yar
 To install the dependencies using npm, simply type the following command in the terminal:
 
 ```npm install```
+
 If you prefer to use Yarn, type the following command instead:
 
 ```yarn```
