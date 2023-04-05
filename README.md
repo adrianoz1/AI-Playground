@@ -11,4 +11,4 @@ OpenAI API is an AI service platform, including NLP, text generation, question a
 ## Polly AWS
 Polly AWS  allows for text-to-speech conversion through voice synthesis, along with code examples and detailed documentation.
 
-- [text-to-speech - Polly AWS] (./text-to-speech/aws-polly)
+- [text-to-speech - Polly AWS](./text-to-speech/aws-polly)
